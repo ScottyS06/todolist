@@ -4,5 +4,5 @@ This is a todolist app that incorporates my knowledge of nodeJS, ejs templating,
 
 The data for the todolist app is stored on MongoDB's atlas platform. The web application itself is hosted on heroku at the following web address: https://powerful-shelf-75925.herokuapp.com/
 
-
+### Web App Demo
 ![Web App Demo](todolist.gif)
